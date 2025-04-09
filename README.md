@@ -11,3 +11,5 @@ A simple frontend DApp built with React and Ethers.js to allow users mint Alpha 
 - Display success message with token ID
 
 ## Live version coming soon! stay tuned guys
+
+This project is property of Alpha Traders DAO. Not to be used or cloned without written permission."
